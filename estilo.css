@@ -1,0 +1,291 @@
+body {
+    background-image: url('images/background image 1.png');
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: unset;
+    min-height: 100%;
+    padding-top: 86px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 100px;
+    color:white;
+    background-color: rgba(32, 61, 32, 0.5);
+    display: inline-block;
+    margin-left: 190px;
+}
+
+ul {
+    margin-top: -50px;
+}
+
+button {
+    margin-left: 640px;
+    margin-top: 20px;
+}
+
+h3 {
+    color: white;
+    margin-top: 60px;
+    margin-left: 360px;
+}
+
+#secao1{
+   height: 970px; 
+   margin-top: 200px;
+   background-image: linear-gradient(180deg, #114221, #1e5439, #144627, #498b1d);
+   border-radius: 5px;
+}
+
+#titulosecao1 {
+    margin-left: 370px;
+    margin-top: 25px;
+}
+
+#servico1 {
+    margin-left: 45px;
+    margin-top: 45px;
+}
+
+#servico2 {
+    margin-left: 45px;
+    margin-top: 75px;
+}
+
+#servico3 {
+    margin-left: 45px;
+    margin-top: 45px;
+}
+
+#servico4 {
+    margin-left: 45px;
+    margin-top: 45px;
+}
+
+#information1 {
+    margin-top: -100px;
+    margin-left: 600px;
+    text-decoration: underline;
+    text-decoration-color: yellow;
+    text-underline-offset: 45px;
+}
+
+#information2 {
+    margin-top: -100px;
+    margin-left: 600px;
+    text-decoration: underline;
+    text-decoration-color: yellow;
+    text-underline-offset: 75px;
+}
+
+#information3 {
+    margin-top: -100px;
+    margin-left: 600px;
+    text-decoration: underline;
+    text-decoration-color: yellow;
+    text-underline-offset: 45px;
+}
+
+#information4 {
+    margin-top: -100px;
+    margin-left: 600px;
+    text-decoration: underline;
+    text-decoration-color: yellow;
+    text-underline-offset: 75px;
+}
+
+#secao2 {
+    background-image: url('images/background image 2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: unset;
+    min-height: 100%;
+    height: 1500px;
+
+}
+
+#titulosecao2 {
+    color: white;
+    background-color: rgba(32, 61, 32, 0.5);
+    margin-right: 200px;
+    margin-top: 70px;
+}
+
+#teste1 {
+    margin-left: 80px;
+    margin-top: 100px;
+    color:white;
+}
+
+#teste2 {
+    margin-left: 500px;
+    margin-top: 100px;
+    color:white;
+}
+
+#teste3 {
+    margin-left: 80px;
+    margin-top: 100px;
+    color:white;
+}
+
+#teste4 {
+    margin-left: 500px;
+    margin-top: 100px;
+    color:white;
+}
+
+#teste5 {
+    margin-left: 80px;
+    margin-top: 100px;
+    color:white;
+}
+
+#nav-fixa{
+    margin-left: 250px;
+    border-radius: 45px;
+    margin-top: 5px;
+}
+
+#secao3 {
+    background-image: url('images/areadoclienteimagem.jpg');
+    background-size: 650px;
+    background-repeat: no-repeat;
+    background-position: unset;
+    min-height: 100%;
+    height: 900px;
+
+}
+
+#areacliente {
+    color: white;
+    background-color: rgba(32, 61, 32, 0.5);
+    margin-left: 700px;
+    margin-top: 50px;
+}
+
+#form1 {
+    margin-top: 50px;
+    margin-left: 800px;
+}
+
+#form2 {
+    margin-top: 30px;
+    margin-left: 800px;
+}
+
+#criaconta {
+    margin-top: 70px;
+    margin-left: 780px;
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+#forgot {
+    margin-top: -55px;
+    margin-left: 1080px;
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+#teste6 {
+    margin-left: 680px;
+    margin-top: 40px;
+    color:white;
+    height: 50px;
+}
+
+#teste7 {
+    margin-left: -20px;
+    margin-top: 70px;
+    color:white;
+}
+
+#minitest {
+    height: 100px;
+}
+
+#secao4{
+    background-image: linear-gradient(180deg, #114221, #1e5439, #144627, #498b1d);
+    height: 920px; 
+    margin-top: 200px;
+    border-radius: 5px;
+
+}
+
+#secaocontato{
+    color: white;
+    background-color: rgba(32, 61, 32, 0.5);
+    margin-right: 200px;
+    margin-top: 70px;
+}
+
+#contact1 {
+    width: 400px;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+#contact2 {
+    width: 400px;
+    margin-top: 90px;
+    margin-left: 100px;
+}
+
+#contact3 {
+    width: 400px;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+#contact4 {
+    width: 400px;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+#secao5{
+    background-image: url('images/sobrenos.png');
+    height: 800px; 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: unset;
+    min-height: 100%;
+}
+
+#aboutus {
+    margin-top: 100px ;
+    margin-left: 480px;
+}
+
+#us{
+    margin-left: 400px;
+    margin-top: 70px;
+    color:white;
+}
+
+#us2{
+    margin-left: -200px;
+    margin-top: 70px;
+    color:white;
+}
+
+#us3{
+    margin-left: 300px;
+    margin-top: 80px;
+    color:white;
+}
+
+#uscard {
+    height: 100px;
+}
+
+#uscard2 {
+    height: 150px;
+}
+
+.nav-link.active-custom {
+    background-color: rgb(83, 131, 83);
+    color: white;
+}
