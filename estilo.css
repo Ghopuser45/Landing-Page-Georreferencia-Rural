@@ -257,6 +257,8 @@ h3 {
 #aboutus {
     margin-top: 100px ;
     margin-left: 480px;
+    border-radius: 15px;
+    width: 25rem;
 }
 
 #us{
