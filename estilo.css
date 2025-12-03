@@ -291,3 +291,27 @@ h3 {
     background-color: rgb(83, 131, 83);
     color: white;
 }
+
+#cardfinal{
+    margin-top: 600px;
+
+}
+
+#rodape{
+    height: 420px;
+}
+
+#face{
+    margin-top: -110px;
+    margin-left: 50px;
+}
+
+#x{
+    margin-top: -209px;
+    margin-left: 100px;
+}
+
+#linkedin{
+    margin-top: -308px;
+    margin-left: 150px;
+}
